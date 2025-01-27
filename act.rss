@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Lenguajes de programacion</title>
+        <title>Noticias Marca</title>
         <link>https://paraninfo.es/rss</link>
-        <description>Canal de programacion</description>
+        <description>Noticias de Marca.es</description>
         <item>
-            <title>Python</title>
-            <link>https://paraninfo.es/rss/python.html</link>
-            <description>El lenguaje de python</description>
-            <author>Fernando paniagua</author>
+            <title>PapiGavi carga contra el Valencia</title>
+            <link>https://www.marca.com/videojuegos/streamers/2025/01/26/6796b2d7ca4741d1128b457c.html</link>
+            <description>El creador de contenido cargó duramente contra la directiva de su equipo después de la sonrojante derrota en liga</description>
+            <author>Marca.es</author>
         </item>
         <item>
-            <title>Java</title>
-            <link>https://paraninfo.es/rss/java.html</link>
-            <description>El lenguaje java</description>
-            <author>Fernando paniagua</author>
+            <title>Compañerismo de Gavi</title>
+            <link>https://www.marca.com/futbol/barcelona/2025/01/27/flick-queda-impresionado-detallazo-companerismo-gavi.html</link>
+            <description>Le dije que le iba a poner los últimos 15 minutos, y él me dijo 'no', mete a Pablo Torre</description>
+            <author>Marca.es</author>
         </item>
         <item>
-            <title>PHP</title>
-            <link>https://paraninfo.es/rss/php.html</link>
-            <description>El lenguaje PHP</description>
-            <author>Fernando paniagua</author>
+            <title>Las fallas se mufan a Vinicius</title>
+            <link>https://www.marca.com/futbol/real-madrid/2025/01/27/fallas-mofan-vinicus-cagallo-d-or.html</link>
+            <description>El artista Víctor Navarro, que planta la Falla de Denia- Brasil ha presentado un ninot de Vinicius en el que se mofa de su balón de oro frustrado </description>
+            <author>Marca.es</author>
         </item>
     </channel>
 </rss>
